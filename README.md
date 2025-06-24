@@ -31,6 +31,6 @@ Step 5: Visualize Accuracy and Loss
 Training and validation accuracy/loss curves were plotted over each epoch to evaluate learning performance.
 
 Step 6: Evaluate and Predict
-Model performance was evaluated on the test set. Sample predictions were visualized alongside actual labels to show model output correctness.
+After training, the model is evaluated on the test set, which contains completely unseen data. The evaluation returns the loss and accuracy of the model on the test set. Accuracy shows how well the model can generalize to new reviews.
 
 # OUTPUT

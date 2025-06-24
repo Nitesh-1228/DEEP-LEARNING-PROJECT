@@ -36,3 +36,5 @@ After training, the model is evaluated on the test set, which contains completel
 # OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/6209108f-abf4-4e91-ab84-dc28958838a0)
+
+![Image](https://github.com/user-attachments/assets/a93467ea-9c3b-4700-9d73-d44e9728557c)

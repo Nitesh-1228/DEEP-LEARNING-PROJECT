@@ -15,6 +15,7 @@ MENTOR: NEELA SANTHOSH
 In this task, a Convolutional Neural Network (CNN) model was implemented using TensorFlow to classify images from the CIFAR-10 dataset. The model was trained, evaluated, and visualized, showcasing a complete deep learning workflow. This project fulfills the requirement of building a deep learning model with visual outputs.
 
 Steps Performed
+
 Step 1: Load the Dataset
 The CIFAR-10 dataset was loaded using tf.keras.datasets. It contains 60,000 32x32 color images in 10 categories, with 50,000 for training and 10,000 for testing.
 

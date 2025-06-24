@@ -34,3 +34,5 @@ Step 6: Evaluate and Predict
 After training, the model is evaluated on the test set, which contains completely unseen data. The evaluation returns the loss and accuracy of the model on the test set. Accuracy shows how well the model can generalize to new reviews.
 
 # OUTPUT
+
+![Image](https://github.com/user-attachments/assets/6209108f-abf4-4e91-ab84-dc28958838a0)
